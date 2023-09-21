@@ -5,14 +5,14 @@ body, h1, h2, p, ul, li, a {
 }
 
 h2 {
-    color: beige;
+    color: bisque;
 }
 
 a:link, a:visited{
-    background-color: rgb(255, 255, 255); /* changes the color of the link box background */
+    background-color: bisque; /* changes the color of the link box background */
     display: inline-block; /* creates navigational menu in boxes that are inline with one another */
     margin-bottom: 0em;
-    color: bisque;
+    color: black;
 }
 
 a :hover, a:active{
