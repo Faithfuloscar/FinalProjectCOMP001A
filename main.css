@@ -9,7 +9,12 @@ h2 {
 }
 
 a:link, a:visited{
-    background-color: bisque; /* changes the color of the link box background */
+    background-color: rgb(255, 255, 255); /* changes the color of the link box background */
     display: inline-block; /* creates navigational menu in boxes that are inline with one another */
     margin-bottom: 0em;
+    color: bisque;
+}
+
+a :hover, a:active{
+    background-color: rgb(226, 203, 176);
 }
