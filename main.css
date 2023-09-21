@@ -1,0 +1,15 @@
+body, h1, h2, p, ul, li, a {
+    margin: 0; /*removing the default margin */
+    padding: 0; /*removing the default padding */
+    font-family: Arial, Helvetica, sans-serif; /*setting the default font */
+}
+
+h2 {
+    color: beige;
+}
+
+a:link, a:visited{
+    background-color: bisque; /* changes the color of the link box background */
+    display: inline-block; /* creates navigational menu in boxes that are inline with one another */
+    margin-bottom: 0em;
+}
