@@ -12,7 +12,7 @@ a:link, a:visited{
     opacity: 10; /* changes the color of the link box background */
     display: inline-block; /* creates navigational menu in boxes that are inline with one another */
     margin-bottom: 0em;
-    color: bisque;
+    color: rgb(0, 0, 0);
     width: 100px;
 
 }
