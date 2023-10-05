@@ -9,7 +9,7 @@ h2 {
 }
 
 a:link, a:visited{
-    opacity: 20; /* changes the color of the link box background */
+    opacity: 30; /* changes the color of the link box background */
     display: inline-block; /* creates navigational menu in boxes that are inline with one another */
     margin-bottom: 0em;
     color: rgb(255, 255, 255);
