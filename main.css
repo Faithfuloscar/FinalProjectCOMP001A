@@ -12,12 +12,12 @@ a:link, a:visited{
     opacity: 10; /* changes the color of the link box background */
     display: inline-block; /* creates navigational menu in boxes that are inline with one another */
     margin-bottom: 0em;
-    color: rgb(0, 0, 0);
+    color: rgb(80, 80, 80);
     width: 100px;
 
 }
 
 a :hover, a:active{
-    background-color: rgb(252, 218, 29);
+    background-color: rgb(0, 0, 0);
 }
 
