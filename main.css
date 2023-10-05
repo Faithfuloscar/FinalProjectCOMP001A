@@ -13,8 +13,8 @@ a:link, a:visited{
     display: inline-block; /* creates navigational menu in boxes that are inline with one another */
     margin-bottom: 0em;
     color: gold;
-    width: 250px;
-    
+    width: 150px;
+
 }
 
 a :hover, a:active{
